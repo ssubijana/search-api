@@ -18,4 +18,4 @@ after_success:
   - java -jar codacy-coverage-reporter-4.0.3-assembly.jar report -l Java -r target/jacoco/jacoco.xml
 
 jdk:
-  - oraclejdk8
+  - openjdk11
