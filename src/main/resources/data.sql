@@ -1,1 +1,1 @@
-insert into user(id, name, firstname, lastname, identity_document, age) values (1, 'USER_1', 'FIRSTNAME', 'LASTNAME', '00000000T', 33)
+insert into USER(ID, NAME, FIRST_NAME, LAST_NAME, IDENTITY_DOCUMENT, AGE) values (1, 'USER_1', 'FIRSTNAME', 'LASTNAME', '00000000T', 33)
