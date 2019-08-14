@@ -33,4 +33,7 @@ public class UserEntity {
 
     @Column(name = "AGE", nullable = false)
     private int age;
+
+    @Column(name = "EMAIL", nullable = false)
+    private String email;
 }
